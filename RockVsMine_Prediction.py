@@ -1,11 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # # Importing the Dependencies
-
-# In[26]:
-
-
 #Here we are predicting whether the object is a rock or a mine by using logistic regression
 
 
@@ -152,7 +146,7 @@ else:
     print('The object is a mine')
 
 
-# In[ ]:
+
 
 
 
